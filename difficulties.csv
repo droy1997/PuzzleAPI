@@ -1,0 +1,7 @@
+agegroup,ansrange,operators,ques_operator,ans_operator,ans_operator,
+"6 to 7, very easy","5, 10",+,1,0,0,
+"6 to 7, easy","10, 20",+,1,0,0,
+"6 to 7, medium","15, 25","+,-",1,0,0,"8, very easy"
+"6 to 7, hard","25, 40",+-,1,0,0,"8, easy"
+"6 to 7 , very hard","40, 50","+,-",1,0,0,"8, easy"
+"8, medium","40, 50","+,- and X",1,0,0,
